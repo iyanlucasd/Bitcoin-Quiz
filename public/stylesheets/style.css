@@ -187,6 +187,18 @@ h1 {
     background-color: rgb(43, 44, 44);
 }
 
+#study-box {
+    background-color: rgb(61, 61, 61);
+    color: rgb(255, 180, 0);
+}
+
+#study h1 {
+    text-align: center;
+    font-weight: 600;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+
 @media (max-width: 1215px) {
     #image {
         display: none;

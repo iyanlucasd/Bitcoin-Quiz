@@ -1,5 +1,6 @@
 nav {
     padding: 5px;
+    padding-left: 30px;
 }
 
 hr {
@@ -12,4 +13,19 @@ hr {
 
 #spaceUP {
     margin-top: 30px;
+}
+
+#card-quemSomos {
+    margin-bottom: 10px;
+}
+
+hr {
+    background-color: rgb(43, 44, 44);
+    margin: 0;
+}
+
+#hr {
+    margin: 0;
+    margin-bottom: 5px;
+    background-color: rgb(255, 180, 0);
 }
