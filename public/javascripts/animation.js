@@ -8,7 +8,8 @@ document.addEventListener("DOMContentLoaded", () => {
             answers: {
                 a: "Alternativa 1",
                 b: "Alternativa 2",
-                c: "Alternativa 3"
+                c: "Alternativa 3",
+                d: "Alternativa 3"
             },
             correctAnswer: "c"
         },
@@ -17,7 +18,8 @@ document.addEventListener("DOMContentLoaded", () => {
             answers: {
                 a: "Alternativa 1",
                 b: "Alternativa 2",
-                c: "Alternativa 3"
+                c: "Alternativa 3",
+                d: "Alternativa 3"
             },
             correctAnswer: "c"
         },
@@ -26,7 +28,8 @@ document.addEventListener("DOMContentLoaded", () => {
             answers: {
                 a: "Alternativa 1",
                 b: "Alternativa 2",
-                c: "Alternativa 3"
+                c: "Alternativa 3",
+                d: "Alternativa 3"
             },
             correctAnswer: "d"
         }
